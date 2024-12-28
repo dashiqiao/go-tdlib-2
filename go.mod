@@ -1,3 +1,3 @@
-module github.com/Arman92/go-tdlib/v2
+module github.com/dashiqiao/go-tdlib-2
 
 go 1.15
